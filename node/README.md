@@ -1,4 +1,4 @@
-## Configurazione ESLint per Node.js
+## Node.js (.eslintrc.json)
 # 1- Install these packages in your dev dependencies using this command:
 
 # npm i -D eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-node eslint-plugin-prettier prettier
